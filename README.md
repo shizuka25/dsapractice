@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/shizuka25/dsapractice/tree/master/0900-reordered-power-of-2) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 <!---LeetCode Topics End-->
