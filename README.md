@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shizuka25/dsapractice/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+## Array
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
