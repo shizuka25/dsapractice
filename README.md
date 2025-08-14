@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
