@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/shizuka25/dsapractice/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Array
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/shizuka25/dsapractice/tree/master/0867-new-21-game) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
