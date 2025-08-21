@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
