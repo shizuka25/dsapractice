@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/shizuka25/dsapractice/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shizuka25/dsapractice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shizuka25/dsapractice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shizuka25/dsapractice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shizuka25/dsapractice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shizuka25/dsapractice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
