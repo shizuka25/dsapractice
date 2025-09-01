@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shizuka25/dsapractice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shizuka25/dsapractice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/shizuka25/dsapractice/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shizuka25/dsapractice/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
