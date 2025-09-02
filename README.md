@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/shizuka25/dsapractice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shizuka25/dsapractice/tree/master/0326-power-of-three) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
 | [0867-new-21-game](https://github.com/shizuka25/dsapractice/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
