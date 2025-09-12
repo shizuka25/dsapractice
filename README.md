@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shizuka25/dsapractice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/shizuka25/dsapractice/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shizuka25/dsapractice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shizuka25/dsapractice/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
