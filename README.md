@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shizuka25/dsapractice/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/shizuka25/dsapractice/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shizuka25/dsapractice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shizuka25/dsapractice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shizuka25/dsapractice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shizuka25/dsapractice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
@@ -147,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/shizuka25/dsapractice/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
