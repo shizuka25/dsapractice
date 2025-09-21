@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shizuka25/dsapractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/shizuka25/dsapractice/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/shizuka25/dsapractice/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shizuka25/dsapractice/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shizuka25/dsapractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/shizuka25/dsapractice/tree/master/0071-simplify-path) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shizuka25/dsapractice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shizuka25/dsapractice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shizuka25/dsapractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0867-new-21-game](https://github.com/shizuka25/dsapractice/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
