@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shizuka25/dsapractice/tree/master/0010-regular-expression-matching) |
 | [0120-triangle](https://github.com/shizuka25/dsapractice/tree/master/0120-triangle) |
 | [0867-new-21-game](https://github.com/shizuka25/dsapractice/tree/master/0867-new-21-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shizuka25/dsapractice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shizuka25/dsapractice/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/shizuka25/dsapractice/tree/master/0498-diagonal-traverse) |
 | [0830-largest-triangle-area](https://github.com/shizuka25/dsapractice/tree/master/0830-largest-triangle-area) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/shizuka25/dsapractice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shizuka25/dsapractice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
