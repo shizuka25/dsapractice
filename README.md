@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/shizuka25/dsapractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/shizuka25/dsapractice/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shizuka25/dsapractice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2169-simple-bank-system](https://github.com/shizuka25/dsapractice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shizuka25/dsapractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shizuka25/dsapractice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/shizuka25/dsapractice/tree/master/1917-maximum-average-pass-ratio) |
+| [2169-simple-bank-system](https://github.com/shizuka25/dsapractice/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shizuka25/dsapractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shizuka25/dsapractice/tree/master/0498-diagonal-traverse) |
+| [2169-simple-bank-system](https://github.com/shizuka25/dsapractice/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shizuka25/dsapractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shizuka25/dsapractice/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/shizuka25/dsapractice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/shizuka25/dsapractice/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
