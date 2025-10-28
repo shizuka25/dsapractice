@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shizuka25/dsapractice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shizuka25/dsapractice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shizuka25/dsapractice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shizuka25/dsapractice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shizuka25/dsapractice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/shizuka25/dsapractice/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shizuka25/dsapractice/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/shizuka25/dsapractice/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shizuka25/dsapractice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shizuka25/dsapractice/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shizuka25/dsapractice/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Backtracking
 |  |
 | ------- |
